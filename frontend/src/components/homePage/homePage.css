@@ -1,0 +1,15 @@
+.home_page {
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    margin-top: 1rem;
+    width: 100%;
+    height: 30rem;
+}
+
+.book {
+    border-style: solid;
+    border-color: crimson;
+    height: 5rem;
+    display: inline-block;
+}
